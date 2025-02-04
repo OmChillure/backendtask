@@ -86,7 +86,6 @@ The system implements robust error handling mechanisms:
 - Graceful shutdown handling for clean process termination
 
 ## Performance Optimization
-
 To achieve optimal performance:
 
 - Adjust `BATCH_SIZE` based on your RPC provider's rate limits
