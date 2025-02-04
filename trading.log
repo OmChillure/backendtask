@@ -1,0 +1,5 @@
+[2025-02-04T09:32:18.281Z] INFO: Starting monitor | {"address":"CovFLcdngBTA2N9jbd3kRuid94HzSzF2NJ5Y54bAJSNd","mode":"historical"}
+[2025-02-04T09:32:21.328Z] INFO: Historical transaction | {"signature":"3MDXcCVhA4and7z4ZG9SmLQjEuTiBgBY6t1KZXT3FRW7bEuWCDeYTmybd8ds7zEjXmGgJBCCwwkYLReK766Lyo6b","amount":5.035155,"blockTime":1738647944}
+[2025-02-04T09:32:21.731Z] INFO: Historical transaction | {"signature":"5apFDqkYqopVHytwSMmxduxWaZRvSDK6DkpDJUqrWVzgMV9QSL9FE365xHTqtvDYH1Shz8nnUVTRBdeC1pbA5Y7Z","amount":5.000005,"blockTime":1738642735}
+[2025-02-04T09:32:22.380Z] INFO: Historical transaction | {"signature":"3y1RXdM8Sqm5WtcZrZaUpkMxTJsDQCri6kh8J4tMaJnQ8ULH5Ha47yCSnAgBdWAW3GmEdpdEZKXZPNy2w2VAPJSw","amount":0.435155,"blockTime":1738642687}
+[2025-02-04T09:32:22.801Z] INFO: Historical transaction | {"signature":"2Syo2GmqybJ6uTv5NRB6c6xPsKQGunnk4HUMNuGHSnq6N949aC2s7qwTj4PcNEisYp5H6qqShkfSVpX6X4E2b6mb","amount":0.335155,"blockTime":1738641346}
